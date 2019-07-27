@@ -402,7 +402,8 @@ footer {
         display: flex;
         margin-bottom: 1.2rem;
         justify-content: space-evenly;
-        align-items: center; }
+        align-items: center;
+        cursor: pointer; }
         footer .container .boxs .buttons button:last-child {
           margin-bottom: 0; }
         footer .container .boxs .buttons button i {

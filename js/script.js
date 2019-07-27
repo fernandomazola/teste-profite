@@ -24,9 +24,9 @@ $(document).ready(function(){
     $('.next-left span').click(prevSlider);
 
 
-    // setInterval(function(){
-    //     nextSlider();
-    // },4000);
+    setInterval(function(){
+        nextSlider();
+    },4000);
 
     //FUNÇÕES
     function pagination(){
@@ -65,6 +65,14 @@ $(document).ready(function(){
     //FUNCIONALIDADE SLIDESHOW
     //FUNCIONALIDADE SLIDESHOW
 });
+
+
+
+
+
+     
+
+
 
 
 
